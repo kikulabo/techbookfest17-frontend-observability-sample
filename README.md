@@ -1,4 +1,4 @@
-# techbookfest17-frontend-observability-sample
+# TechBookFest17 Frontend Observability Sample Application
 
 ## 概要
 
