@@ -1,14 +1,14 @@
 # techbookfest17-frontend-observability-sample
 
-このリポジトリは、フロントエンドのオブザーバビリティ（Observability）を学ぶためのサンプルアプリケーションです。技術書典17にて公開されたもので、特にNew Relicを活用したパフォーマンスモニタリングやエラーログ、トレース収集の実装方法を紹介しています。
-
 ## 概要
 
-このアプリケーションは、New Relicを通じて、フロントエンドアプリケーションの観測性を高め、ユーザーエクスペリエンス向上のためのデータを収集する方法をデモします。以下の機能により、アプリケーションのリアルタイム監視とデバッグが可能です。
+このリポジトリは、フロントエンドのオブザーバビリティ（Observability）を学ぶためのサンプルアプリケーションです。
 
-- パフォーマンスモニタリング
-- エラーロギング
-- トレース収集
+New Relicを通じてフロントエンドアプリケーションの観測性を向上させ、リアルタイムでのパフォーマンスモニタリングを行います。
+
+具体的な内容に関しては技術書典17で公開した以下の書籍をご覧ください。
+
+[書籍名](https://techbookfest.org/organization/v1cJ4zwUeTn3Lzsg0e6df2)
 
 ## インストール
 
@@ -34,7 +34,7 @@ Browser内の「Application settings」を開きSession replay、Session traces�
 3. リポジトリをクローン
 
 ```
-git clone https://github.com/your-username/techbookfest17-frontend-observability-sample.git
+git clone https://github.com/kikulabo/techbookfest17-frontend-observability-sample.git
 cd techbookfest17-frontend-observability-sample
 ```
 
